@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.App{
+  background-image: linear-gradient( to bottom, rgb(232, 95, 95) ,rgb(99, 163, 99));
+  height: 100vh;
+}; 
